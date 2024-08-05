@@ -1,0 +1,6 @@
+[X] - check if * is a pointer by 
+      checking last token and making sure its not a IDENTIFIER or a FUNCTION
+      Also make * into a $ so its easier to parse
+[X] - insure right order by coverting to reverse polish notation
+[X] - handle pointers correctly
+[ ] - handle types

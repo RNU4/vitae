@@ -1,0 +1,1 @@
+gcc interpreter.c -Ofast -frename-registers -funroll-loops -ffp-contract=on -flto -falign-jumps=4 -fwhole-program
